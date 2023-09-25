@@ -58,7 +58,7 @@ function TestimonialCard({data, t}) {
               src={data.image}
               alt=""
               className="rounded-full border border-[#707070]"
-              style={{width:"200px", height:"200px"}}
+              style={{width:"400px", height:"300px"}}
             />
           </div>
           <div>
