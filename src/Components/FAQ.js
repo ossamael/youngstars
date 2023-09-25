@@ -100,7 +100,7 @@ const FAQ = ({ t }) => {
             }  flex justify-between cursor-pointer text-[#c13645]`}
           >
             <div className={faq_order_className}>
-            {t("faq_heading.question 3")}
+            {t("faq_heading.question 4")}
             </div>
             <div className={order_management}>
               <AiOutlineRight className="text-2xl " />
