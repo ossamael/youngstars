@@ -6,7 +6,7 @@ import SimpleImageSlider from "react-simple-image-slider";
 import "../Styles/HeroSection.css"
 
 const images = [
-  { url: "/Images/web cover high quality-02.jpeg" },
+  { url: "../Assets/Images/web cover high quality-02.jpg" },
   { url: "/Images/slider_img_2.jpeg" },
 ];
 
