@@ -38,6 +38,10 @@
   "Asked Question": "Asked Question Frequently",
   "faq_heading": {
     "Raw denim": "DO YOU HAVE ONLINE CLASSES?",
+    "question 2": "IS THIS INSTITUTION CERTIFIED? ",
+    "question 3": "DO YOU GIVE CERTIFICATION AT THE END OF THE COURSE? ",
+    "question 4": "HOW LONG DOES THE COURSE LAST? ",
+    "question 5": "IN WHAT LANGUAGE DO YOU GIVE THE COURSE? ",
     "alignmentClass": "order-[1]"
   },
 
@@ -45,6 +49,10 @@
   "faq_order_manage": "order-[2]",
   "Williamsburg": "Williamsburg carles vegan helvetica.",
   "Anim pariatur": "No, And we will never conduct online classes as per our standards which are based on practical,real-life,hands-on exercises ",
+  "question 2 content": "YES we are, we are certified by the ministry of education.",
+  "question 3 content": "YES, we do give certificates at the end of each course. ",
+  "question 4 content": "The course lasts 3 months on average, depending on each student's needs and understanding.",
+  "question 5 content": "We give our courses in English and Arabic.",
   "Reprehenderit": "Reprehenderit butucher retro",
   "Cosby": "Cosby sweater eu banh mi",
   "Pages": "Pages",
