@@ -14,14 +14,14 @@ export const TestimonialsContent = [
     profession: "Smart Car",
   },
   {
-    image: c2,
-    text: "Discovering what's an electric circuit by lighting LED's using resistors. Our students accomplish their first task.",
-    name: "Nehaile ",
-    profession: "LEDS and Resistor",
+    image: c5,
+    text: "Our young Sheikh learning the basics of circuitry using Arduino and different types of modules.",
+    name: "Nehail ALARYANI",
+    profession: "Circuitry",
   },
   {
     image: c3,
-    text: "Building Lego Robots to improve coordination between mind and fingers, then learning to control this robot using code.",
+    text: "Building Lego Robots to improve coordination between mind and fingers, then learning to control this robot.",
     name: "Mohammed ALMARZOUQI",
     profession: "Lego Robots",
   },
@@ -32,10 +32,10 @@ export const TestimonialsContent = [
     profession: "Robotic Arm",
   },
   {
-    image: c5,
-    text: "Our young Sheikh learning the basics of circuitry using Arduino and different types of modules.",
+    image: c2,
+    text: "Discovering what's an electric circuit by lighting LED's using resistors. Our students accomplish their first task.",
     name: "Ahmed ALTAMIMI ",
-    profession: "Circuitry",
+    profession: "LEDS and Resistor",
   },
   {
     image: c6,
