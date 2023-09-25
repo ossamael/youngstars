@@ -7,7 +7,7 @@ import "../Styles/HeroSection.css"
 
 const images = [
   { url: "/Images/slider_img_0.jpg" },
-  { url: "/Images/slider_img_2.jpeg" },
+  { url: "/Images/slider_img_0.jpg" },
 ];
 
 function HeroSection({ t }) {
