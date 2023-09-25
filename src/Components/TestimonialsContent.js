@@ -7,19 +7,19 @@ export const TestimonialsContent = [
   {
     image: c1,
     text: "Slate helps you see how many more days you need to work to reach your financial goal for the month and year.",
-    name: "Asad",
-    profession: "Designer",
+    name: "Ahmed",
+    profession: "Smart Car",
   },
   {
     image: c2,
-    text: "Discovering what's an electric circuit by lighting LED's using resistors.",
-    name: "Hashir",
-    profession: "Developer",
+    text: "Discovering what's an electric circuit by lighting LED's using resistors. Our students accomplish their first task and take confidence",
+    name: "Nehile",
+    profession: "LEDS and Arduino",
   },
   {
     image: c3,
     text: "Slate helps you see how many more days you need to work to reach your financial goal for the month and year.",
-    name: "Huzaifa",
+    name: "Mohammed",
     profession: "Manger",
   },
   {
