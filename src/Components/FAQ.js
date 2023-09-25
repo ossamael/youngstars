@@ -1,4 +1,4 @@
- 3import React, { useState } from "react";
+import React, { useState } from "react";
 import { AiOutlineRight } from "react-icons/ai";
 import { withTranslation } from "react-i18next";
 // import "./style.css"
@@ -76,7 +76,7 @@ const FAQ = ({ t }) => {
             }  flex justify-between cursor-pointer text-[#c13645]`}
           >
             <div className={faq_order_className}>
-            {t("faq_heading.question 3")}
+            {t("faq_heading.question 2")}
             </div>
             <div className={order_management}>
               <AiOutlineRight className="text-2xl " />
@@ -87,7 +87,7 @@ const FAQ = ({ t }) => {
               isCollapsed2 ? "hidden" : ""
             } bg-[#d9d9d9] p-4 mt-3 rounded cursor-default`}
           >
-           {t("question 3 content")}
+           {t("question 2 content")}
           </div>
         </div>
         <div className="border-b-2 border-r-2 border-l-2 border-[#d9d9d9] flex flex-col justify-between p-4">
@@ -100,7 +100,7 @@ const FAQ = ({ t }) => {
             }  flex justify-between cursor-pointer text-[#c13645]`}
           >
             <div className={faq_order_className}>
-            {t("faq_heading.question 4")}
+            {t("faq_heading.question 3")}
             </div>
             <div className={order_management}>
               <AiOutlineRight className="text-2xl " />
