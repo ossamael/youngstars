@@ -2,7 +2,7 @@
 import c1 from "../Assets/Images/C1.jpg";
 import c2 from "../Assets/Images/C2.jpg";
 import c3 from "../Assets/Images/C3.jpg";
-import c4 from "../Assets/Images/C3.jpg";
+import c4 from "../Assets/Images/IMG_9268.jpg";
 
 export const TestimonialsContent = [
   {
