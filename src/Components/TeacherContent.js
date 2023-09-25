@@ -17,7 +17,7 @@ export const TeacherContent = [
   {
     name: "GROUP SESSION",
     profession: "Location: ABU DHABI",
-    video: "https://youtube.com/shorts/ljEbHwhXf3Y?feature=share"
+    video: "https://player.vimeo.com/video/867484655?h=128f824ac2"
   },
 
   {
