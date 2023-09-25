@@ -12,7 +12,7 @@ export const TestimonialsContent = [
   },
   {
     image: c2,
-    text: "Slate helps you see how many more days you need to work to reach your financial goal for the month and year.",
+    text: "Discovering what's an electric circuit by lighting LED's using resistors.",
     name: "Hashir",
     profession: "Developer",
   },
