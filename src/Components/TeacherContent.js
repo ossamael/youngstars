@@ -1,34 +1,34 @@
 export const TeacherContent = [
   {
-    name: "Asad",
-    profession: "Designer",
+    name: "GROUP SESSION",
+    profession: "Location: ABU DHABI",
     video: "https://player.vimeo.com/video/867484655?h=128f824ac2"
   },
   {
-    name: "Hashir",
-    profession: "Developer",
+    name: "PRIVATE SESSION",
+    profession: "Location: AL AIN",
     video: "https://player.vimeo.com/video/867484740?h=c6f6723b1c"
   },
   {
-    name: "Huzaifa",
-    profession: "Manger",
+    name: "ASSESSMENT",
+    profession: "location: DUBAI",
     video: "https://player.vimeo.com/video/867484770?h=63050862ad"
   },
   {
-    name: "Zain",
-    profession: "Freelancer",
+    name: "GROUP SESSION",
+    profession: "Location: ABU DHABI",
     video: "https://player.vimeo.com/video/867484655?h=128f824ac2"
   },
 
   {
-    name: "Bilal",
-    profession: "Writer",
+    name: "PRIVATE SESSION",
+    profession: "Location: AL AIN",
     video: "https://player.vimeo.com/video/867484740?h=c6f6723b1c"
   },
 
   {
-    name: "Naveed",
-    profession: "Solver",
+    name: "ASSESSMENT",
+    profession: "location: DUBAI",
     video: "https://player.vimeo.com/video/867484770?h=63050862ad"
   },
 ];
