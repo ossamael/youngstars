@@ -15,7 +15,7 @@ export const TestimonialsContent = [
   },
   {
     image: c5,
-    text: "Our young Sheikh learning the basics of circuitry using Arduino and different types of modules.",
+    text: "Our young Student learning the basics of circuitry using Arduino and different types of modules.",
     name: "Nehail ALARYANI",
     profession: "Circuitry",
   },
